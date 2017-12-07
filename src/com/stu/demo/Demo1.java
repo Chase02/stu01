@@ -22,6 +22,9 @@ public class Demo1 {
 		
 		// github
 		System.out.print("");
+		
+		// eclipse
+		System.out.println();
 	}
 	
 }
