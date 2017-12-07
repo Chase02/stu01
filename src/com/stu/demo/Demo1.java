@@ -19,6 +19,9 @@ public class Demo1 {
 		
 		short s = 1;
 		s = (short) (s + 3);
+		
+		// github
+		System.out.print("");
 	}
 	
 }
