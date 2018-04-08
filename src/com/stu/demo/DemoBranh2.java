@@ -6,6 +6,8 @@ public class DemoBranh2 {
 		System.out.println("branch2");
 		
 		System.out.println("branch2__---------------------");
+		
+		System.out.println("clone======");
 	}
 
 }
